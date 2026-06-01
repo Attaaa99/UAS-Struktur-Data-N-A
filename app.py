@@ -231,5 +231,8 @@ Dibuat menggunakan:
 - Python
 - Streamlit
 - Stack Data Structure
+
+Dibuat oleh:
+    Naufal Atha
 """)
 
